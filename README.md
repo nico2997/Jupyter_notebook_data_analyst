@@ -1,12 +1,12 @@
 # Jupyter_notebook_data_analyst
 Tutorial and Practice for Data analytics
 
-## MySQL training:
+MySQL training:
 www.hackerrank.com/hualivnico
 
 
 
-## Machine Learning Model:
+Machine Learning Model:
 
 [Titanic Survived Data](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/RandomForestModel) : Random Forest 
 
