@@ -5,4 +5,4 @@ MySQL training:
 www.hackerrank.com/hualivnico
 
 
-[Random Forest Model] (Titanic Dataset) : Random Forest 
+[Random Forest Model](Titanic Dataset) : Random Forest 
