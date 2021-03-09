@@ -11,7 +11,7 @@ www.hackerrank.com/hualivnico
 1. [Titanic Survived Passenger](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/RandomForestModel) : Random Forest Model
 2. [World Medal Count Estimation](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Generalized%20Linear%20Model%20R) : Linear Regression and Cross Validation (R)
 3. [2016 Brexit Vote](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Logistic%20Regression%20R) : Logistic regression and Decision Tree Model (R)
-4. [Mushroom Edibility Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Random%20Forest%20R) : Random Forest Model (R)
+4. [Mushroom Edibility Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Random%20Forest%20R) : Random Forest Model and Cross Validation (R)
 
 
 
