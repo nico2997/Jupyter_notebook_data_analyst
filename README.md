@@ -10,7 +10,9 @@ Machine Learning Model:
 [Titanic Survived Data](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/RandomForestModel) : Random Forest 
 
 
-Below are EDA tutorial and problem solving analysis question that I practiced from free courses:
+
+
+## Below are EDA tutorial and problem solving analysis question that I practiced from free courses:
 
 [Introduction to python for Data analytics](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Exercise)
 
