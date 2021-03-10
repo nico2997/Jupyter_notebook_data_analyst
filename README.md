@@ -8,10 +8,11 @@ www.hackerrank.com/hualivnico
 
 ### Machine Learning Concept with Real World Dataset.
 
-1. [Titanic Survived Passenger](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/RandomForestModel) : Random Forest Model
-2. [World Medal Count Estimation](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Generalized%20Linear%20Model%20R) : Linear Regression and Cross Validation (R)
-3. [2016 Brexit Vote](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Logistic%20Regression%20R) : Logistic regression and Decision Tree Model (R)
-4. [Mushroom Edibility Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Random%20Forest%20R) : Random Forest Model and Cross Validation (R)
+1. [Medication on drug analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Drugs%20analysis) : Random Forest, Decision Tree & Cross Validation
+2. [Titanic Survived Passenger](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/RandomForestModel) : Random Forest Model
+3. [World Medal Count Estimation](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Generalized%20Linear%20Model%20R) : Linear Regression and Cross Validation (R)
+4. [2016 Brexit Vote](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Logistic%20Regression%20R) : Logistic regression and Decision Tree Model (R)
+5. [Mushroom Edibility Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Random%20Forest%20R) : Random Forest Model and Cross Validation (R)
 
 
 
