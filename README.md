@@ -1,4 +1,4 @@
-# Jupyter_notebook_data_analyst (Tutorial and Practice for Data analytics)
+# Jupyter_notebook_data_analyst 
 
 MySQL training:
 www.hackerrank.com/hualivnico
