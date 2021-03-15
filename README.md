@@ -4,7 +4,9 @@ Tutorial and Practice for Data analytics
 MySQL training:
 www.hackerrank.com/hualivnico
 
+### My ETL practice.
 
+[Cypto market price](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/ETL%20practice) : To SQL/Database
 
 ### Machine Learning Concept with Real World Dataset.
 
@@ -31,4 +33,4 @@ www.hackerrank.com/hualivnico
 
 [Scikit-Learn Tutorial](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Machine%20Learning%20Tutorial)
 
-[ETL on Cypto market price](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/ETL%20practice)
+
