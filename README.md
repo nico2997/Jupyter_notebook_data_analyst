@@ -23,7 +23,7 @@ www.hackerrank.com/hualivnico
 [TED Talk Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/TED_talk_analysis)
 
 
-### Tutorial I learned from free courses:
+### Useful Tutorials from the free courses:
 
 [Introduction to python for Data analytics](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Exercise)
 
