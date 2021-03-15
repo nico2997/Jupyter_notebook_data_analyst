@@ -16,7 +16,7 @@ www.hackerrank.com/hualivnico
 5. [Mushroom Edibility Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Random%20Forest%20R) : Random Forest Model and Cross Validation (R)
 
 
-### EDA practice:
+### My EDA practice:
 
 [Sales analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Sales%20Analysis)
 
