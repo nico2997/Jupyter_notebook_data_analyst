@@ -10,11 +10,12 @@ www.hackerrank.com/hualivnico
 ### Machine Learning Concept with Real World Dataset.
 
 1. [Medication on drug analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Drugs%20analysis) : Random Forest, Decision Tree & Cross Validation
-2. [Titanic Survived Passenger](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/RandomForestModel) : Random Forest Model
-3. [Predict Behavior to Retain Customer / Customer Churn](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Customer%20Churn) : KNN Classifier
-4. [World Medal Count Estimation](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Generalized%20Linear%20Model%20R) : Linear Regression and Cross Validation (R)
-5. [2016 Brexit Vote](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Logistic%20Regression%20R) : Logistic regression and Decision Tree Model (R)
-6. [Mushroom Edibility Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Random%20Forest%20R) : Random Forest Model and Cross Validation (R)
+2. [Mushroom Edibility Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Mushroom%20Edibility%20Analysis) : Random Forest Model and Cross Validation (Python & R)
+3. [Titanic Survived Passenger](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/RandomForestModel) : Random Forest Model
+4. [Predict Behavior to Retain Customer / Customer Churn](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Customer%20Churn) : KNN Classifier
+5. [World Medal Count Estimation](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Generalized%20Linear%20Model%20R) : Linear Regression and Cross Validation (R)
+6. [2016 Brexit Vote](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Logistic%20Regression%20R) : Logistic regression and Decision Tree Model (R)
+
 
 
 ### My EDA practice:
