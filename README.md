@@ -5,7 +5,7 @@ www.hackerrank.com/hualivnico
 
 ### My ETL practice.
 
-[Crypto market price](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/ETL%20practice) : To SQL/Database
+[Crypto market price](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/ETL%20practice/Crypto-price.ipynb) : To SQL/Database
 
 ### Machine Learning Concept with Real World Dataset.
 
