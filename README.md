@@ -9,10 +9,10 @@ www.hackerrank.com/hualivnico
 
 ### Machine Learning Concept with Real World Dataset.
 
-1. [Medication on drug analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Drugs%20analysis) : Random Forest, Decision Tree & Cross Validation
-2. [Mushroom Edibility Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Mushroom%20Edibility%20Analysis) : Random Forest Model and Cross Validation (Python & R)
-3. [Titanic Survived Passenger](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/RandomForestModel) : Random Forest Model
-4. [Predict Behavior to Retain Customer / Customer Churn](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Customer%20Churn) : KNN Classifier
+1. [Medication on drug analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/Drugs%20analysis/Drug%20analysis.ipynb) : Random Forest, Decision Tree & Cross Validation
+2. [Mushroom Edibility Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/Mushroom%20Edibility%20Analysis/Mushroom%20Analysis.ipynb) : Random Forest Model and Cross Validation (Python & R)
+3. [Titanic Survived Passenger](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/RandomForestModel/Titanic%20-%20Random%20Forest.ipynb) : Random Forest Model
+4. [Predict Behavior to Retain Customer / Customer Churn](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/Customer%20Churn/Customer%20Churn.ipynb) : KNN Classifier
 5. [World Medal Count Estimation](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Generalized%20Linear%20Model%20R) : Linear Regression and Cross Validation (R)
 6. [2016 Brexit Vote](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Logistic%20Regression%20R) : Logistic regression and Decision Tree Model (R)
 
@@ -20,9 +20,9 @@ www.hackerrank.com/hualivnico
 
 ### My EDA practice:
 
-[Sales analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Sales%20Analysis)
+[Sales analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/Sales%20Analysis/Real%20World%20data%20analysis%20problem.ipynb)
 
-[TED Talk Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/TED_talk_analysis)
+[TED Talk Analysis](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/TED_talk_analysis/TED%20analysis.ipynb)
 
 
 ### Handy Tutorials from the free courses:
