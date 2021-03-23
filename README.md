@@ -19,7 +19,9 @@ www.hackerrank.com/hualivnico
   * [Titanic Survived Passenger](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/RandomForestModel/Titanic%20-%20Random%20Forest.ipynb) : Random Forest Model
 
 * __Regression models:__
+  * [Boston Housing Price](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/Boston%20Housing%20Regression/Linear%20Regression%20on%20Boston%20Housing.ipynb) : Linear Regression & Polynomial Reegression
   * [World Medal Count Estimation](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Generalized%20Linear%20Model%20R) : Linear Regression and Cross Validation (R)
+  
 
 
 ### My EDA practice:
