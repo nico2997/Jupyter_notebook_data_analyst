@@ -21,6 +21,7 @@ www.hackerrank.com/hualivnico
 * __Regression models:__
   * [Boston Housing Price](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/Boston%20Housing%20Regression/Linear%20Regression%20on%20Boston%20Housing.ipynb) : Linear Regression & Polynomial Reegression
   * [World Medal Count Estimation](https://github.com/nico2997/Jupyter_notebook_data_analyst/tree/main/Generalized%20Linear%20Model%20R) : Linear Regression and Cross Validation (R)
+  * [Amazon Deforestation 1988-2018](https://github.com/nico2997/Jupyter_notebook_data_analyst/blob/main/Amazon%20Deforestation%20Time%20Series/Amazon%20Deforestation.ipynb) : Time Series model(MA, ARMA, ARIMA, SARIMA, SARIMAX, SES, HWES)
   
 
 
